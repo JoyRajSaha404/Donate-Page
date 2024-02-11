@@ -1,0 +1,265 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.donate-section {
+    text-align: center;
+    padding: 175px 307px;
+    background-image: url(/images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-title {
+    font-size: 60px;
+    font-weight: 800;
+    color: #fffbfb;
+    padding-bottom: 20px;
+}
+
+.header-description-1,
+.header-description-2 {
+    color: #fdeded;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.btn-primary {
+    font-weight: 700;
+    background-color: #FF5959;
+    color: aliceblue;
+    padding: 16px 20.5px;
+    border: none;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.donate-today-section {
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+}
+
+.donate-today-title {
+    color: rgb(33, 33, 33);
+    font-weight: 700;
+    font-size: 45px;
+    padding-top: 130px;
+    padding-bottom: 20px;
+}
+
+.donate-today-description {
+    font-size: 22px;
+    color: #707070;
+    padding-bottom: 0px;
+
+}
+
+.donate-amount-container {
+    display: flex;
+    gap: 67px;
+    align-items: center;
+    margin-left: 350px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+}
+
+.donate-amount {
+    color: #707070;
+}
+
+.donate-amount-container>h2 {
+    padding: 43px 23px;
+    border-radius: 5px;
+    margin-top: 60px;
+
+}
+
+.donate-amount-container h2:hover {
+    background-color: #ffe5e5;
+    color: #FF5959;
+    padding: 43px 23px;
+    border-radius: 10px;
+    border: 3px solid #FF5959;
+    margin-top: 50px;
+
+}
+
+.order-amount {
+    text-align: center;
+    color: #B3B3B3;
+    padding-bottom: 10px;
+}
+
+.order-amount-line {
+    height: 1px;
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.button{
+    margin-left:675px;
+    margin-right:665px;
+
+}
+.planning-section{
+    text-align: center;
+    margin-left:375px ;
+    margin-right:375px ;
+}
+.planning-section{
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+.planning-title{
+    color: rgb(33, 33, 33);
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+.planning-container{
+    display: flex;
+    gap:47px;
+    margin-left: 157px;
+    margin-right: 157px;
+    margin-top: 50px;
+}
+.plan-detail-1{
+    padding: 62px 22px 53px 23px;
+    background-color: #d0ecee;
+}
+.plan-detail-2{
+    padding: 62px 22px 53px 23px;
+    background-color: #ffeaea;
+}
+.plan-detail-3{
+    padding: 62px 22px 53px 23px;
+    background-color: #fff7e0;
+}
+.plan-image{
+    padding-bottom: 29.5px;
+}
+.plan-title{
+    padding-bottom: 16px;
+}
+.plan-description{
+    font-weight: 200;
+    font-size: 19px;
+    color: #707070;
+}
+.contribute-description{
+    width: 400px;
+    height: 380px;
+}
+.contribute-1{
+    display: flex;
+    align-items: center;
+    gap: 83px;
+    margin: 131px 252px 100px 252px; 
+    width: auto; 
+    max-height: 100%;
+}
+.contribute-image > img {
+    width: 400px;
+    height: 380px;
+}
+.contribute-title-1{
+    color: rgb(33, 33, 33);
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 20px;
+    text-align: left;
+}
+.contribute-title-2{
+    color: rgb(33, 33, 33);
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 20px;
+    text-align: right;
+}
+.contribute-description-1{
+    color: rgb(126, 126, 126);
+    padding-bottom: 20px;
+
+}
+.contribute-description-2{
+    color: rgb(126, 126, 126);
+    text-align: left;
+    padding-bottom: 30px;
+}
+.contribute-description-3{
+    color: rgb(126, 126, 126);
+    text-align: right;
+    padding-bottom: 20px;
+}
+.contribute-description-4{
+    color: rgb(126, 126, 126);
+    text-align: right;
+    padding-bottom: 30px;
+}
+.btn-angkon{
+    padding:16px 25px;
+    background-color: #FF5959;
+    color: #fdeded;
+    border-radius: 5px;
+    border: 0;
+    font-weight:600 ;
+    text-align: left;
+}
+.button-manik{
+    padding-left: 225px;
+}
+.updates-section{
+    text-align: center;
+}
+.update-title{
+    color: rgb(33, 33, 33);
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+.update-section-footer{
+    background-color: #fff7e0;
+    margin:50px 315px 130px 315px;
+    border-radius: 5px;
+
+
+
+}
+.update-email{
+    display: flex;
+    gap:0px;
+    padding:75px 190px;
+}
+.subscribe{
+    font-weight: 700;
+    background-color: #FF5959;
+    color: aliceblue;
+    padding: 16px 20.5px;
+    border: none;
+}
+form > input {
+    border: none;
+    padding:17px 218px 17px 17px;
+    max-width: 35px;
+}
+.footer{
+    padding: 43px 629px 43px 675px;
+    background-color: #0B0D17;
+    text-align: center;
+}
+  
+.footer > h2 {
+    font-family: 'Lobster', sans-serif;
+}
+.humble{
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 24px;
+    color:#FF5959;
+}
+.footer-description{
+    color: #D9DBE1;
+}
